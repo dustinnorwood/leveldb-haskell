@@ -59,7 +59,7 @@ library
                   , resourcet > 0.3.2
                   , transformers
 
-  ghc-options:      -Wall -funbox-strict-fields
+  ghc-options:      -funbox-strict-fields
 
   hs-source-dirs:   src
 
